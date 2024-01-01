@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 
-Welcome to arabel1a's landing page!
+Welcome to my landing page!
 
 My cool stuff:
  * [ ] An open-source reimplementation of SERCOS II protocol for LinuxCNC 
@@ -15,10 +15,10 @@ My cool stuff:
  
 
 Once i will update all the stuff, but not today :D
-                .    _     *       \|/   .       .      -*-              +
-                  .' \\`.     +    -*-     *   .         '       .   *
-               .  |__''_|  .       /|\ +         .    +       .           |
-                  |     | .                                        .     -*-
-                  |     |           `  .    '             . *   .    +    '
+                .    _     *       \\|/   .       .      -\*-              +
+                  .' \\\\ .     +    -\*-     *   .         '       .   *
+               .  |\_\_''\_|  .       /|\ +         .    +       .           |
+                  |     | .                                        .     -\*-
+                  |     |              .    '             . *   .    +    '
                 _.'-----'-._     *                  .
               /          apc\__.__.--._______________
