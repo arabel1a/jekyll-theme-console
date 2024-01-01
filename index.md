@@ -4,6 +4,21 @@ layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+Welcome to arabel1a's landing page!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+My cool stuff:
+ * [ ] An open-source reimplementation of SERCOS II protocol for LinuxCNC 
+        *[link will be added soon]*
+ * [ ] An extendible converter for EMC languages *[needs deep refactoring](https://github.com/arabel1a/lst2ngc)*
+ * [ ] S-curve stepdir library for STM32 *[outdated](https://github.com/arabel1a/S-curve-stepdir)*
+ * [ ] Tasks for the practices i am teaching *[not available yet]*
+ 
+
+Once i will update all the stuff, but not today :D
+                .    _     *       \|/   .       .      -*-              +
+                  .' \\`.     +    -*-     *   .         '       .   *
+               .  |__''_|  .       /|\ +         .    +       .           |
+                  |     | .                                        .     -*-
+                  |     |           `  .    '             . *   .    +    '
+                _.'-----'-._     *                  .
+              /          apc\__.__.--._______________

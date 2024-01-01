@@ -5,10 +5,10 @@
  * Style variables
  */
 $base-font-family:     'Source Code Pro', monospace !default;
-$base-font-size:       14px !default;
-$mobile-font-size:     14px !default;
+$base-font-size:       17px !default;
+$mobile-font-size:     12px !default;
 $base-line-height:     1.5 !default;
-$container-width:      90% !default;
+$container-width:      70% !default;
 $container-max-width:  1920px !default;
 
 /**
@@ -29,7 +29,7 @@ p { word-wrap: break-word;  word-break: break-word;  white-space: pre-wrap; marg
 footer { color: var(--text-color);  border-top: var(--border);  margin: 20px auto 15px;  padding-top: 10px;  text-align: right; }
 header { margin-top: 25px;  margin-bottom: 10px; }
 header p { text-align: left;  margin: 0; }
-footer { margin-bottom: 20px; }
+footer { margin-bottom: 20px; font-style: italic; }
 
 /**
  * Highlight/Markup
@@ -48,6 +48,7 @@ footer { margin-bottom: 20px; }
  * Header/Navigation
  */
 .menu { border-top: var(--border);  border-bottom: var(--border);  margin-bottom: 25px; }
+/*.menu b { font-size: 30px;  font-weight: bold;  color: var(--text-color); } */
 .menu ul { margin-top: 12px;  margin-bottom: 12px;  padding-left: 0px;  list-style-type: none;  text-align: right; }
 .menu ul li { display: inline;  margin-left: 10px; }
 .menu ul li a { text-decoration: none;  color: var(--text-color); }

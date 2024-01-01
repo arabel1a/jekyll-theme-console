@@ -10,6 +10,17 @@
 
 #style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
+title: my_title
 
 plugins:
   - jekyll-seo-tag
+
+header_pages:
+  - index.md
+  - peter.md
+  - about.md
+
+style: dark
+
+footer: '<hr> <br> contact via tg <a href="https://t.me/arabel1a">@arabel1a</a>'
+
