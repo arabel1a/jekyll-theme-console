@@ -2,7 +2,9 @@
 <header>
   <hr>
   <div class="menu">
-     <a href="{{my_page.url}}"><b>{{site.title}}</b></a>
+    <div class="home_link">
+     <a href="{{site.url}}"><b>{{site.title}}</b></a>
+    </div>
     <ul>
       {%- for path in page_paths -%}
         {%- assign my_page = site.pages | where: "path", path | first -%}
