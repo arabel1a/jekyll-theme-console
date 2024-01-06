@@ -27,7 +27,7 @@ a:hover { color: var(--background-color); background-color: var(--base-color); }
 .container { width: $container-width;  max-width: $container-max-width;  margin-right: auto;  margin-left: auto; }
 p { word-wrap: break-word;  word-break: break-word;  white-space: pre-wrap; margin-bottom: 15px; }
 footer { color: var(--text-color);  border-top: var(--border);  margin: 20px auto 15px;  padding-top: 10px;  text-align: right; }
-header { margin-top: 25px;  margin-bottom: 10px; }
+header { margin-top: 25px;  margin-bottom: 10px; background: var(--header-bg);}
 header p { text-align: left;  margin: 0; }
 footer { margin-bottom: 20px; font-style: italic; }
 
@@ -73,7 +73,7 @@ textarea { vertical-align: top; }
  */
 .lineno { color: var(--code-color-1); margin-right: 15px; }
 figure.highlight { margin: 5px 0; }
-pre { background-color: var(--background-color);  border: none;  padding: 0;  margin: 0;  overflow:auto;  font-size: $base-font-size;  color: var(--text-color);  line-height: 1.7 !important;  font-family: $base-font-family !important; }
+pre { background-color: var(--code-background-color);  border: none;  padding: 0;  margin: 0;  overflow:auto;  font-size: $base-font-size;  color: var(--text-color);  line-height: 1.7 !important;  font-family: $base-font-family !important; }
 .highlight .hll { background-color: var(--code-color-2); }
 .highlight .c { color: var(--code-color-1); font-style: italic } /* Comment */
 .highlight .err { color: var(--code-color-3); background-color: var(--code-color-4); } /* Error */
