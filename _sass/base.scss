@@ -48,7 +48,8 @@ footer { margin-bottom: 20px; font-style: italic; }
  * Header/Navigation
  */
 /*.menu { border-top: var(--border);  border-bottom: var(--border);  margin-bottom: 25px; } */
-.home_link a { font-size: 25px;  font-weight: bold; color: var(--header-text); text-decoration: none;} 
+.menu { padding: 0 15px; }
+.home_link a { font-size: 25px;  font-weight: bold; color: var(--header-text); text-decoration: none;}
 .menu ul { margin-top: 12px;  margin-bottom: 12px;  padding-left: 0px;  list-style-type: none;  text-align: right; }
 .menu ul li { display: inline;  margin-left: 10px; }
 .menu ul li a { text-decoration: none;  color: var(--header-text); }
